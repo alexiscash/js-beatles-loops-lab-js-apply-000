@@ -30,3 +30,13 @@ function johnLennonFacts(array) {
   return newFacts;
 }
 
+function iLoveTheBeatles(num) {
+  let array = [];
+  
+}
+
+
+
+
+
+
